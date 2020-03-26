@@ -1,6 +1,14 @@
-# panasonic
+# Inforapp
 
-A new Flutter project.
+simple informative app
+
+i made this for my company, 
+there is some change especially on the asset 
+im really sorry about asset use, 
+
+please use it as you want
+
+thank you ;) 
 
 ## Getting Started
 
